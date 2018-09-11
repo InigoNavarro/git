@@ -5,6 +5,7 @@ public class PruebaGit {
 		// TODO Auto-generated method stub
 		System.out.println("Quiero subir.");
 		System.out.println("H.");
+		System.out.println("l");
 	}
 
 }
