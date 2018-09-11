@@ -7,6 +7,7 @@ public class PruebaGit {
 		System.out.println("H.");
 		System.out.println("l");
 		System.out.println("e");
+		System.out.println("o");
 	}
 
 }
